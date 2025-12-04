@@ -67,7 +67,7 @@ $exams = $pdo->query("
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manage Exams - Mighty School for Valours</title>
+    <title>Manage Exams - Tip Top Schools</title>
     <style>
         * {
             margin: 0;
@@ -378,7 +378,7 @@ $exams = $pdo->query("
         <div class="header">
             <div class="school-logo">
                 <img src="../assets/logo.png" alt="School Logo">
-                <span>Mighty School for Valours - Manage Exams</span>
+                <span>Tip Top Schools - Manage Exams</span>
             </div>
         </div>
 
@@ -481,5 +481,6 @@ $exams = $pdo->query("
         });
     </script>
 </body>
+
 
 </html>
