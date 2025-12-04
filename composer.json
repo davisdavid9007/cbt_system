@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mk-j/php_xlsxwriter": "^0.39.0",
+        "phpoffice/phpspreadsheet": "1.24.1"
+    }
+}
