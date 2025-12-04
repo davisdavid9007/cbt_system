@@ -103,7 +103,7 @@ $progress_stats = $stmt->fetch();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Student Dashboard - Mighty School for Valours</title>
+    <title>Student Dashboard - Tip Top Schools </title>
     <style>
         * {
             margin: 0;
@@ -499,7 +499,7 @@ $progress_stats = $stmt->fetch();
         <div class="header-content">
             <div class="school-info">
                 <div class="school-logo">MSV</div>
-                <div class="school-name">Mighty School for Valours</div>
+                <div class="school-name">Tip Top Schools</div>
             </div>
             <div style="display: flex; align-items: center;">
                 <div class="student-info">

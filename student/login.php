@@ -47,7 +47,7 @@ function login_success($student) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Student Login - Mighty School for Valours</title>
+    <title>Student Login - Tip Top Schools</title>
     <style>
         * {
             margin: 0;
@@ -202,7 +202,7 @@ function login_success($student) {
 <body>
     <div class="login-container">
         <div class="school-logo">TCMS</div>
-        <h1 class="school-name">Mighty School for Valours</h1>
+        <h1 class="school-name">Tip Top Schools</h1>
         <p class="tagline">Computer Based Test Platform</p>
         
         <?php if (isset($error)): ?>
